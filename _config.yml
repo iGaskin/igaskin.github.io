@@ -9,9 +9,10 @@
 title: Isaac Gaskin
 email: gask0032@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Purpose driven blog written by and for the makers at heart, the constantly curious,
+  and those who hunger for nuggets of knowledge.  This platform is not intended
+  to be a breading ground of tutorials, but rather an attempt to earn partial 
+  credit by showing my work.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://igaskin.github.io" # the base hostname & protocol for your site
 twitter_username: coder_junk 
